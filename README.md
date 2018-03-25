@@ -2,7 +2,7 @@
 HTML5
 
 ## 実行結果
-[【ここをクリック】](https://xekid78.github.io/WebSideMenu/)
+[【ここをクリック】](https://xekid78.github.io/WebHTML5/)
   
 ## 開発環境
 | 開発ツール |  |
